@@ -6,9 +6,8 @@ namespace UnitTest
     public class UnitTests1
     {
         [TestMethod]
-        public void TestMethod1()
-        {
-            Assert.IsTrue(True);
-        }
+        public void TestMethod1() {
+            Assert.IsTrue(true);
+            }
     }
 }

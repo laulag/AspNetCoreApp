@@ -5748,9 +5748,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/laurentlagamme/Desktop/AspNetCoreApp/UnitTest/UnitTest.csproj",
-      "projectName": "UnitTest",
-      "projectPath": "/Users/laurentlagamme/Desktop/AspNetCoreApp/UnitTest/UnitTest.csproj",
+      "projectUniqueName": "/Users/laurentlagamme/Desktop/AspNetCoreApp/UnitTest/UnitTests.csproj",
+      "projectName": "UnitTests",
+      "projectPath": "/Users/laurentlagamme/Desktop/AspNetCoreApp/UnitTest/UnitTests.csproj",
       "packagesPath": "/Users/laurentlagamme/.nuget/packages/",
       "outputPath": "/Users/laurentlagamme/Desktop/AspNetCoreApp/UnitTest/obj/",
       "projectStyle": "PackageReference",
